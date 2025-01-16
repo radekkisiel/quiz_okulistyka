@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/quiz_okulistyka/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/quiz_okulistyka/static/js/main.7154d69f.chunk.js",
+    "main.js.map": "/quiz_okulistyka/static/js/main.7154d69f.chunk.js.map",
+    "runtime-main.js": "/quiz_okulistyka/static/js/runtime-main.967de270.js",
+    "runtime-main.js.map": "/quiz_okulistyka/static/js/runtime-main.967de270.js.map",
+    "static/js/2.6f0d44c1.chunk.js": "/quiz_okulistyka/static/js/2.6f0d44c1.chunk.js",
+    "static/js/2.6f0d44c1.chunk.js.map": "/quiz_okulistyka/static/js/2.6f0d44c1.chunk.js.map",
+    "static/js/3.e54c4e22.chunk.js": "/quiz_okulistyka/static/js/3.e54c4e22.chunk.js",
+    "static/js/3.e54c4e22.chunk.js.map": "/quiz_okulistyka/static/js/3.e54c4e22.chunk.js.map",
+    "index.html": "/quiz_okulistyka/index.html",
+    "precache-manifest.136eeb6621dca2b2336386f4a3aec8b7.js": "/quiz_okulistyka/precache-manifest.136eeb6621dca2b2336386f4a3aec8b7.js",
+    "service-worker.js": "/quiz_okulistyka/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/quiz_okulistyka/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.6f0d44c1.chunk.js.LICENSE.txt": "/quiz_okulistyka/static/js/2.6f0d44c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.967de270.js",
+    "static/js/2.6f0d44c1.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.7154d69f.chunk.js"
+  ]
+}
